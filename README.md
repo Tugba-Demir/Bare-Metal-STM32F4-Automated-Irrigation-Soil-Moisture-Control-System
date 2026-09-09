@@ -8,5 +8,7 @@ Projenin tüm detaylarını, şemalarını ve açıklamalarını içeren PDF dok
 
 Projenin kaynak koduna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-👉 **[Proje Dokümanını Aç / İndir (PDF)](Toprak_Nem_Kayıt_Cihazı_Projesi_260909_201400.pdf)**
+👉 **[Proje Kaynak Kodunu Aç / İndir (PDF)](Toprak_Nem_Kayıt_Cihazı_Projesi_260909_201400.pdf)**
+
+# Kaynakça:
 
