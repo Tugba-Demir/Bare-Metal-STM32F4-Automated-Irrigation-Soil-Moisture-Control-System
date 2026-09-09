@@ -11,7 +11,7 @@ Projenin kaynak koduna aşağıdaki bağlantıdan ulaşabilirsiniz:
 👉 **[Proje Kaynak Kodunu Aç / İndir (PDF)](Kaynak_Kod)**
 
 # Canlı Test Videosu: 
-👉 "link ekle"
+👉 **[Projenin uygulama videosunu izle].(https://youtube.com/shorts/AOzCnX3zNmw?feature=share)**
 
 # Kaynakça:
 
