@@ -10,7 +10,8 @@ Projenin kaynak koduna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 👉 **[Proje Kaynak Kodunu Aç / İndir (PDF)](Kaynak_Kod)**
 
-# Canlı Test Videosu: "link ekle"
+# Canlı Test Videosu: 
+👉 "link ekle"
 
 # Kaynakça:
 
